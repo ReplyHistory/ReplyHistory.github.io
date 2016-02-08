@@ -15,5 +15,7 @@ url: "http://www.replyhistory.com" # the base hostname & protocol for your site
 twitter_username: ReplyHistory
 # github_username:  jekyll
 
+
+email: replyhistory@gmail.com
 # Build settings
 markdown: kramdown
