@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.replyhistory.com" # the base hostname & protocol for your site
 twitter_username: ReplyHistory
 # github_username:  jekyll
-[Patreon] (https://www.patreon.com/ReplyHistory)
+[Patreon](https://www.patreon.com/ReplyHistory)
 email: replyhistory@gmail.com
 # Build settings
 markdown: kramdown
