@@ -9,7 +9,7 @@
 title: Reply History
 contact email: replyhistory@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I run a Youtube channel called Reply History where I explain historical events with simple-to-follow diagrams.
+  Historical events explained with simple diagrams.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.replyhistory.com" # the base hostname & protocol for your site
 twitter_username: ReplyHistory
