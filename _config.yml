@@ -7,15 +7,13 @@
 
 # Site settings
 title: Reply History
-email: your-email@domain.com
+contact email: ReplyHistory@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Historical events explained with simple diagrams.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.replyhistory.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ReplyHistory
+facebook_username: ReplyHistory
 
 # Build settings
 markdown: kramdown
