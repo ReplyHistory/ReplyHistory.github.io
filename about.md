@@ -10,6 +10,3 @@ I run a Youtube channel called Reply History where I explain historical events w
 
 
 [Patreon](https://www.patreon.com/ReplyHistory)
-
-
-email: replyhistory@gmail.com
