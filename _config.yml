@@ -7,7 +7,7 @@
 
 # Site settings
 title: Reply History
-email: replyhistory@gmail.com
+
 description: > # this means to ignore newlines until "baseurl:"
   Historical events explained with simple diagrams.
 baseurl: "" # the subpath of your site, e.g. /blog
