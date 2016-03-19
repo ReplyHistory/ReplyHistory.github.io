@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fall of the Roman Republic; Rise of the Roman Empire (Part 1)"
+title:  "Fall of the Roman Republic: Battle of Philippi"
 date:   2016-03-15 00:00:00 -0500
 categories: post
 ---
