@@ -6,6 +6,6 @@ categories: post
 ---
 Welcome to the Reply History Website. I run a Youtube channel called Reply History where I explain historical events with simple diagrams. I look forward to creating more content in the future.
 
-https://www.youtube.com/ReplyHistory
+[Link to Youtube]https://www.youtube.com/ReplyHistory
 
-https://www.twitter.com/ReplyHistory
+[Link to Twitter]https://www.twitter.com/ReplyHistory
