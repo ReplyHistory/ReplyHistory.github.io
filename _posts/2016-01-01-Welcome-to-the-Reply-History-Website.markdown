@@ -18,6 +18,5 @@ Welcome to the Reply History Website. I run a Youtube channel called Reply Histo
 
 [Link to Twitter]: https://www.twitter.com/ReplyHistory
 
-[Twitter]
 
 [Twitter]: https://www.twitter.com/ReplyHistory
