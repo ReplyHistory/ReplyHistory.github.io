@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zulu: Battles of Isandlwana and Rorke's Drift - Reply History "
+title:  "Zulu: Battles of Isandlwana and Rorke's Drift"
 date:   2016-05-16 22:24:48 +0900
 categories: post
 ---
