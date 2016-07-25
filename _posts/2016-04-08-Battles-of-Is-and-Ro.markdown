@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poland is not yet Lost"
-date:   2016-05-16 22:24:48 +0900
+date:   2016-07-25 22:24:48 +0900
 categories: post
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N4C2P3e_gi4" frameborder="0" allowfullscreen></iframe>
